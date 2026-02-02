@@ -20,7 +20,7 @@ yesBtn.addEventListener("click", () => {
     <h1 class="beat">YAYYYY!! 💘💘</h1>
     <p>You just made my day ❤️</p>
 
-    <img src="public/myphoto.jpeg" class="result-img">
+    <img src="myphoto.jpeg" class="result-img">
 
     <h3>Forever My Valentine 💖</h3>
   `;
@@ -62,3 +62,4 @@ function createHeart() {
 }
 
 setInterval(createHeart, 350);
+
